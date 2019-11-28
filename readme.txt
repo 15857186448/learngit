@@ -8,3 +8,5 @@ xie le yi xie hu hua deng yi xia yao che xiao diao ni deng zhe ba ha ha ha ha
 creating a new branch is quick and simple
 
 --no-ff test  this is 101-bug but now we have to resolve it
+
+这是我要搞的第二个stash
