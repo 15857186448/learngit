@@ -7,4 +7,4 @@ xie le yi xie hu hua deng yi xia yao che xiao diao ni deng zhe ba ha ha ha ha
 
 creating a new branch is quick and simple
 
---on-off test
+--no-ff test  this is 101-bug but now we have to resolve it
